@@ -1,0 +1,142 @@
+body {
+  margin: 0 auto;
+  width: 100%;
+  padding: 0%;
+  font-family: 'Montserrat', sans-serif;  
+}
+
+/* Navigation Section */
+.navigation-bar {
+    
+  background-color: #f30d58;
+  border-radius: 1rem;
+  
+  color: white;
+  width: 85%;
+  margin:auto;
+  
+
+  padding-top: 0;
+}
+.brand-name {
+    padding: 0px auto;
+  font-size: 2rem;
+  margin-top: 0;
+  padding-left: 1rem;
+  padding-top: 1rem;
+}
+
+.nav-ul {
+  
+  text-align: right;
+  color: white;
+}
+.nav-links {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.nav-list {
+  display: inline;
+  font-size: large;
+  padding: 0.8rem;
+  color: white;
+  text-decoration: none;
+}
+
+.hero-image {
+  width: 30%;
+}
+.Header-section {
+  text-align: center;
+}
+.heading-highligted {
+  color: #f30d58;
+}
+
+/* Sections */
+.section-grey{
+    text-align: center;
+    border-radius: 1rem;
+    
+    margin : 5rem auto;
+    width: 85%;
+    background-color: #f3f4f6;
+    height: 8rem;
+}
+
+.section-offw{
+     text-align: center;
+      width: 85%;
+    margin:5rem auto;
+    height: 8rem;
+
+    
+}
+.primary-links{
+    font-size: 1.1rem;
+    text-decoration: none;
+    border-radius: 2rem;
+    background-color:#f30d58 ;
+    color: #fff;
+    height:4rem;
+    padding:5px;
+}
+.primary-links:hover{
+    color:yellow;
+}
+
+.secondary-links{
+    font-size: 1.1rem;
+    text-decoration: none;
+    border: 1px solid  #f30d58 ;
+    border-radius: 2rem;
+    color: #f30d58;
+    height: 3rem;
+    padding-bottom: 0;
+    
+
+    /* background-color:#f30d58 ; */
+    
+    height:4rem;
+    padding:5px;
+}
+.secondary-links:hover{
+    color:blue;
+}
+
+/* Footer  Section */
+
+.footer{
+  width: 85%;
+   padding: 0px auto;
+  background-color:#f30d58 ;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 1rem;
+  text-align: center;
+  color: white;
+  bottom: 0;
+  height: 100px;
+  
+  
+}
+.footer-heading{
+  padding: 2px 3px;
+  margin: auto;
+  
+}
+.footer-links{
+  color: #fff;
+  text-decoration: none;
+  margin: auto;
+}
+.footer-list{
+  display: inline-block;
+  padding: 3px 30px;
+  padding-inline-start: 0;
+  margin-bottom: 5px;
+  
+}
+
